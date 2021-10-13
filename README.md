@@ -10,11 +10,13 @@ In this paper, we propose to use a texture-invariant representation of objects f
 
 All datasets from the paper are available for [download](https://ferhr-my.sharepoint.com/:f:/g/personal/abarisic1_fer_hr/Er3AKC69wNVOoXVv3_rP6ikBpLyYKOwLr8_9zXZVF2dVeQ?e=lfm0vT&download=1). If you use these datasets for your research, please cite:
 ```
-@unpublished{sim2air,
-author = {Antonella Barisic and Frano Petric and Stjepan Bogdan},
-title = {Sim2Air - Synthetic aerial dataset for UAV monitoring},
-note = {Manuscript submitted for publication},
-year = {2021}
+@misc{barisic2021sim2air,
+      title={Sim2Air - Synthetic aerial dataset for UAV monitoring}, 
+      author={Antonella Barisic and Frano Petric and Stjepan Bogdan},
+      year={2021},
+      eprint={2110.05145},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
