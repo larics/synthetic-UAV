@@ -8,7 +8,7 @@ This repository contains a synthetic datasets accompanying the journal paper **S
 
 [RA-L paper](https://ieeexplore.ieee.org/document/9699390) | [Video](https://www.youtube.com/watch?v=7pPGEk8t_Tw)
 
-All datasets from the paper are available for [download](https://ferhr-my.sharepoint.com/:f:/g/personal/abarisic1_fer_hr/Er3AKC69wNVOoXVv3_rP6ikBpLyYKOwLr8_9zXZVF2dVeQ?e=lfm0vT&download=1). If you use these datasets for your research, please cite:
+All datasets from the paper are available for [download](https://ferhr.sharepoint.com/:f:/s/LARICS/ElAJKHYOcSVHjDGe-PYUr5YBAWJOsD0LWoKI6R3YzUl1lg?e=0reOr4&download=1). If you use these datasets for your research, please cite:
 ```
 @article{Barisic-RAL-2022,
   author = {Antonella Barisic and Frano Petric and Stjepan Bogdan},
